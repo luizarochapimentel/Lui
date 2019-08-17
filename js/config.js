@@ -1,0 +1,1 @@
+const api_url ='https://luiza-front-end-api.firebaseio.com';
